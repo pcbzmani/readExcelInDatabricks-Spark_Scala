@@ -1,0 +1,5 @@
+Step1: Open build.sbt file
+Step2: under libraryDependencies
+Step3: Add "com.crealytics" %% "spark-excel" % "0.13.0" (here version is 0.13.0)
+Step4: ctrl+shift+O to build that sbt
+Step5: Use in Scala code
