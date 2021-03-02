@@ -1,0 +1,9 @@
+Step1: Go the Cluster in Databricks
+Step2: Choose libraries
+Step3: Install New
+Step4: Select Library source as Maven
+Step5: Under Cooridnates, click Search package
+Step6: Change Spark package to Maven Package
+Step7: In the Query Tab, Search Spark-excel
+Step8: Select com.crealytics  - spark_excel_2.XX, where XX is your Scala version
+Step9: Now in your Workspace use the code given in Code.scala
