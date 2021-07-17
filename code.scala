@@ -13,4 +13,4 @@ val inpData = spark.read
 
 inpData.printSchema()
 
-inpData.show(10)
+inpData.show(100)
